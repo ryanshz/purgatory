@@ -12,6 +12,8 @@ a project with ASTRO and TAILWIND so i can stop writing html and css when i make
 
 a cool plugin for linux that i can use on my desktop at some point to show all my friends
 
+update project page on portfolio website, maybe add some other cool things there as well
+
 ## project names i want to use
 
 artemis
