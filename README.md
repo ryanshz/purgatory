@@ -1,6 +1,6 @@
 # purgatory
 
-a repository meant to organize future projects and ideas i come up with during my free time
+a repository meant to organize future projects and ideas i come up with so i can do them <s>when im putting off work</s> during my free time
 
 ## projects
 
